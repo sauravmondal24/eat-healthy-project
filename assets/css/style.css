@@ -156,11 +156,15 @@ input:focus {
 }
 .recipie-item1 h2 {
 	text-align: left;
-	margin: 20px 30px;
+	margin: 30px 30px 15px 30px;
 }
 .recipie-item1 p {
 	text-align: left;
-	margin: 20px 30px 50px 30px;
+	margin: 15px 30px 50px 30px;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: Montserrat;
+	line-height: 30px;
 }
 /* My Recipies-sec-end */
 
